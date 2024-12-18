@@ -16,6 +16,6 @@ Gqrx - Replays signals
 ## More 
 Mini_Cooper_Manual.pdf
 
-`[Use HackRF SDR to Lock / Unlock Car](https://jamesachambers.com/use-hackrf-sdr-to-lock-unlock-car/)`
+[Use HackRF SDR to Lock / Unlock Car](https://jamesachambers.com/use-hackrf-sdr-to-lock-unlock-car/)
 
 
